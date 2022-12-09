@@ -1,0 +1,6 @@
+name 'cpe_shims'
+maintainer 'Uber Technologies, Inc.'
+maintainer_email 'noreply@uber.com'
+license 'Apache-2.0'
+description 'Installs/Configures cpe_shims'
+version '0.1.0'
